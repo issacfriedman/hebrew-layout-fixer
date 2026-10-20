@@ -9,8 +9,9 @@ on the same key (standard Israeli layout), so `akuo` becomes `שלום`.
 
 ## Install (unpacked)
 
-1. Open `chrome://extensions` and turn on **Developer mode**.
-2. Click **Load unpacked** and pick this folder.
+1. [Download the ZIP](https://github.com/issacfriedman/hebrew-layout-fixer/archive/refs/heads/main.zip) and unzip it.
+2. Open `chrome://extensions` and turn on **Developer mode**.
+3. Click **Load unpacked** and pick the unzipped `hebrew-layout-fixer-main` folder.
 
 ## Test
 
