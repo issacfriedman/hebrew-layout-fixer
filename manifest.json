@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Hebrew Layout Fixer",
+  "version": "1.0.0",
+  "description": "Right-click selected text typed in the wrong layout to turn English keys into Hebrew (a → ש).",
+  "permissions": ["contextMenus", "activeTab", "scripting", "clipboardWrite"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  }
+}
